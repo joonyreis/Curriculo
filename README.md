@@ -41,7 +41,7 @@ Testes unitários, de carga e integração através de Protractor, Selenium e Ga
 Disponibilidade para viagens
 
 ## Certificação
-**Cerficação Microsoft** - MTA 98-361 – Soware Development Fundamentals
+**Microsoft - MTA 98-361** – Software Development Fundamentals
 
 **LGPD** - EXIN Privacy and Data Protection Essentials 
 
