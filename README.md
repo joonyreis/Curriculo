@@ -46,15 +46,17 @@ Disponibilidade para viagens
 **LGPD** - EXIN Privacy and Data Protection Essentials 
 
 ## Experiência Profissional
-11/2018 a 01/2020 **Instuto De Estudos De Protestos Do Rio Grande Do Sul - IEPRO RS
 
- Desenvolvedor de Software**
+**11/2018 a 01/2020 Instuto De Estudos De Protestos Do Rio Grande Do Sul - IEPRO RS**
+
+ **Desenvolvedor de Software**
  
 ▪ Responsável pelo desenvolvimento front-End em Angular para o sistema online de inmações e acesso ao Jornal do Protesto gerado pelo sistema;
 
 ▪ Desenvolvimento do aplicavo mobile IOS para consulta de protestos, calculadora de custas de protesto, informações e cartórios parcipantes.
 
-08/2016 a 10/2018 **Perto S/A Periféricos para automação**
+
+**08/2016 a 10/2018 Perto S/A Periféricos para automação**
 
  **Projesta de Soware**
  
@@ -64,7 +66,8 @@ Disponibilidade para viagens
 
 ▪ Documentação de procedimentos de instalação e configuração das aplicações desenvolvidas para controle de numerário e TEF.
 
-12/2015 a 05/2016 **Linx LTDA**
+
+**12/2015 a 05/2016 Linx LTDA**
  
  **Analista Desenvolvedor**
  
@@ -72,7 +75,8 @@ Disponibilidade para viagens
 
 ▪ Desenvolvimento e testes ulizando Delphi com aplicação multi banco.
 
-03/2014 a 11/2015 **Hewlett Packard Brasil LTDA**
+
+**03/2014 a 11/2015 Hewlett Packard Brasil LTDA**
 
  **Desenvolvedor/Testador**
  
@@ -82,7 +86,8 @@ Disponibilidade para viagens
 
 ▪ Planejamento, desenvolvimento e execução de testes de back-end e front-end via Gallio e integração com SauceLabs. 
 
-10/2013 a 03/2014 **Hewlett Packard Brasil LTDA**
+
+**10/2013 a 03/2014 Hewlett Packard Brasil LTDA**
 
  **Estagiário**
  
@@ -90,7 +95,8 @@ Disponibilidade para viagens
 
 ▪ Execução e correção de casos de testes sistêmicos e unitários.
 
-11/2011 a 11/2013 **Advance Tecnologia LTDA (Pináculo)**
+
+**11/2011 a 11/2013 Advance Tecnologia LTDA (Pináculo)**
 
  **Técnico em Eletrônica - Desenvolvedor .NET e Palestrante de treinamentos**
  
