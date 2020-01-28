@@ -21,24 +21,22 @@ Análise da viabilidade de desenvolvimento de sistemas, envolvendo o levantament
 
 Planejamento, desenvolvimento e realização de testes para a garana de que os sistemas estejam sem erros e em conformidade com as especificações funcionais levantadas.
 
-Desenvolvendo através de C# .NET, DNN, Enty, Swi, Angular, HTML5, Javascript, CSS, Typescript,
-comunicação com bancos de dados relacionais e não relacionais como: Microso SQL Server, Oracle e
-Firebase.
+Desenvolvendo através de C# .NET, DNN, Entity, Swift, Angular, HTML5, Javascript, CSS, Typescript,
+comunicação com bancos de dados relacionais e não relacionais como: Microsoft SQL Server, Oracle, PostgreSQL,
+Firebase e MongoDB.
 
-Metodologia ágil com processos e entregas connuas, integração com AWS ( S3, EC2, Lambda e
+Metodologia ágil com processos e entregas continuas, integração com AWS ( S3, EC2, Lambda e
 Codebuild ) e Azure DevOps.
 
 Versionamento de código e documentos através de Github, Bitbucket e SVN.
 
-Desenvolvimento front-End em Angular para o sistema online de inmações do Instuto de
-
-Protestos do RS e aplicavo mobile IOS para consulta de protestos, calculadora de custas de protesto, informações e cartórios parcipantes.
+Desenvolvimento front-End em Angular para o sistema online de intimações do Instuto de Protestos do RS e aplicativo mobile IOS para consulta de protestos, calculadora de custas de protesto, informações e cartórios parcipantes.
 
 Integração e desenvolvimento de sistemas de controle de numerário e transações eletrônicas (TEF).
 
 Testes unitários, de carga e integração através de Protractor, Selenium e Gallio.
 
-Disponibilidade para viagens
+Disponibilidade para viagens.
 
 ## Certificação
 **Microsoft - MTA 98-361** – Software Development Fundamentals
@@ -51,7 +49,7 @@ Disponibilidade para viagens
 
  **Desenvolvedor de Software**
  
-▪ Responsável pelo desenvolvimento front-End em Angular para o sistema online de inmações e acesso ao Jornal do Protesto gerado pelo sistema;
+▪ Responsável pelo desenvolvimento front-End em Angular para o sistema online de intimações e acesso ao Jornal do Protesto gerado pelo sistema;
 
 ▪ Desenvolvimento do aplicavo mobile IOS para consulta de protestos, calculadora de custas de protesto, informações e cartórios parcipantes.
 
@@ -62,7 +60,7 @@ Disponibilidade para viagens
  
 ▪ Desenvolvimento de sistemas em C# e C++ em aplicações Desktop com WebServices, alterações de registros e bancos de dados SQL e Oracle;
 
-▪ Implementações e correções de back-end e front-end, levantamento e esmavas de requisitos;
+▪ Implementações e correções de back-end e front-end, levantamento e esmativas de requisitos;
 
 ▪ Documentação de procedimentos de instalação e configuração das aplicações desenvolvidas para controle de numerário e TEF.
 
@@ -80,9 +78,9 @@ Disponibilidade para viagens
 
  **Desenvolvedor/Testador**
  
-▪ Implementações e correções de back-end ulizando .NET, levantamento e esmavas de requisitos;
+▪ Implementações e correções de back-end utilizando .NET, levantamento e estimativas de requisitos;
 
-▪ Implementações e correções front-end ulizando Javascript (Handelbars, Backbone e Marionee), CSS e HTML;
+▪ Implementações e correções front-end ultizando Javascript (Handelbars, Backbone e Marionee), CSS e HTML;
 
 ▪ Planejamento, desenvolvimento e execução de testes de back-end e front-end via Gallio e integração com SauceLabs. 
 
@@ -91,7 +89,7 @@ Disponibilidade para viagens
 
  **Estagiário**
  
-▪ Correções de pequenos bugs e implementações em Web Server e Web Services ulizando .NET;
+▪ Correções de pequenos bugs e implementações em Web Server e Web Services utilizando .NET;
 
 ▪ Execução e correção de casos de testes sistêmicos e unitários.
 
@@ -104,7 +102,7 @@ Disponibilidade para viagens
 
 ▪ Manutenção e atualização de interfaces celulares, rastreadores e gravadores telefônicos;
 
-▪ Experiência em análise e desenvolvimento de novas funcionalidades nos sistemas, correção de bugs e testes ulizando C# e Microso SQL Server;
+▪ Experiência em análise e desenvolvimento de novas funcionalidades nos sistemas, correção de bugs e testes utilizando C# e Microsoft SQL Server;
 
-▪ Ministrando treinamentos para setores internos da empresa como markeng, comercial e departamento de assistência técnica entre outros parceiros. 
+▪ Ministrando treinamentos para setores internos da empresa como marketing, comercial e departamento de assistência técnica entre outros parceiros. 
 
