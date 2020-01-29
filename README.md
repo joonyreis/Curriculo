@@ -19,7 +19,7 @@ Estabelecendo padrões e métodos para a organização, idenficando soluções d
 
 Análise da viabilidade de desenvolvimento de sistemas, envolvendo o levantamento das necessidades, pesquisando e avaliando os sistemas disponíveis no mercado e a sua aplicação.
 
-Planejamento, desenvolvimento e realização de testes para a garana de que os sistemas estejam sem erros e em conformidade com as especificações funcionais levantadas.
+Planejamento, desenvolvimento e realização de testes para a garantia de que os sistemas estejam sem erros e em conformidade com as especificações funcionais levantadas.
 
 Desenvolvendo através de C# .NET, DNN, Entity, Swift, Angular, HTML5, Javascript, CSS, Typescript,
 comunicação com bancos de dados relacionais e não relacionais como: Microsoft SQL Server, Oracle, PostgreSQL,
@@ -71,7 +71,7 @@ Disponibilidade para viagens.
  
 ▪ Análise e levantamento de requisitos;
 
-▪ Desenvolvimento e testes ulizando Delphi com aplicação multi banco.
+▪ Desenvolvimento e testes utilizando Delphi com aplicação multi banco.
 
 
 **03/2014 a 11/2015 Hewlett Packard Brasil LTDA**
@@ -80,7 +80,7 @@ Disponibilidade para viagens.
  
 ▪ Implementações e correções de back-end utilizando .NET, levantamento e estimativas de requisitos;
 
-▪ Implementações e correções front-end ultizando Javascript (Handelbars, Backbone e Marionee), CSS e HTML;
+▪ Implementações e correções front-end utilizando Javascript (Handelbars, Backbone e Marionee), CSS e HTML;
 
 ▪ Planejamento, desenvolvimento e execução de testes de back-end e front-end via Gallio e integração com SauceLabs. 
 
